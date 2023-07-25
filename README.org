@@ -1,0 +1,10 @@
+* cl-webkit
+
+A binding to WebKitGTK+ for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/joachifm/cl-webkit.git   |
+| commit  | b8ae1e2  |
+| systems | cl-webkit |
+|---------+-------------------------------------------|
+
