@@ -4,6 +4,6 @@ A binding to WebKitGTK+ for Common Lisp
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/joachifm/cl-webkit.git |
-| commit  | 66fd070                                       |
+| commit  | 0d32816                                       |
 | systems | cl-webkit2                                    |
 |---------+-----------------------------------------------|
