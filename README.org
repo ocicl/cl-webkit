@@ -7,4 +7,4 @@ A binding to WebKitGTK+ for Common Lisp
 | commit  | 623efe3                                       |
 | systems | cl-webkit2                                    |
 |---------+-----------------------------------------------|
-  
+   
